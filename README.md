@@ -18,7 +18,7 @@ A restaurant ordering application that allows customers to place orders and rest
 # Getting Started
 - Clone the repository
 ```shell
-git clone https://github.com/CrimsX/restaurant-app
+git clone https://github.com/klearliu/Restaurant-App.git
 ```
 
 - Start the server
