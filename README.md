@@ -1,4 +1,4 @@
-# restaurant-app
+# Restaurant-app
 A restaurant ordering application that allows customers to place orders and restaurant managers to manage their menu and orders.
 
 # Features
