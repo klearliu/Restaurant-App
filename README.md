@@ -41,18 +41,27 @@ npm i
 npm start
 ```
 
-![Interface page that shows a button to client or management](/img/00Interfaces.png "Home Page of web app. We will be looking at the customer side of the app first (ie. client)")
+![Interface page that shows a button to client or management](/img/00Interfaces.png)
 
-![Interface page that shows a button to client or management](/img/01ClientLogin.png "Description Comming Soon")
+![Customer login screen](/img/01ClientLogin.png)
 
-![Interface page that shows a button to client or management](/img/02ClientRestaurantSelection.png "Description Comming Soon")
-![Interface page that shows a button to client or management](/img/03ClientMenuSelection.png "Description Comming Soon")
-![Interface page that shows a button to client or management](/img/04ClientCartInterface.png "Description Comming Soon")
-![Interface page that shows a button to client or management](/img/05ClientCurrentOrders.png "Description Comming Soon")
-![Interface page that shows a button to client or management](/img/06ClientOrderHistory.png "Description Comming Soon")
-![Interface page that shows a button to client or management](/img/07ManagementMenuScreen.png "Description Comming Soon")
-![Interface page that shows a button to client or management](/img/08ManagementEditMenuItem.png "Description Comming Soon")
-![Interface page that shows a button to client or management](/img/09ManagementCreateFoodItem.png "Description Comming Soon")
-![Interface page that shows a button to client or management](/img/10ManagementPendingOrders.png "Description Comming Soon")
-![Interface page that shows a button to client or management](/img/11ManagementAnalyticPopularItems.png "Description Comming Soon")
-![Interface page that shows a button to client or management](/img/12ManagementAnalyticBusiestHours.png"Description Comming Soon")
+![Customer restaurant selection screen](/img/02ClientRestaurantSelection.png)
+
+![Customer food menu selection screen](/img/03ClientMenuSelection.png)
+
+![Customer's shopping cart of added items](/img/04ClientCartInterface.png)
+
+![Customer's current orders (ie digital reciept)](/img/05ClientCurrentOrders.png)
+
+![Customer's successfully made order history, with a feature to re-order](/img/06ClientOrderHistory.png)
+
+![Management main screen, featuring their menu and other options to modify their menu items](/img/07ManagementMenuScreen.png)
+
+![Management's editing food menu page](/img/08ManagementEditMenuItem.png)
+
+![Management's create menu page](/img/09ManagementCreateFoodItem.png)
+
+![Management's current orders with its status](/img/10ManagementPendingOrders.png)
+
+![Management analytics of most purchased items](/img/11ManagementAnalyticPopularItems.png)
+![Management analytics of busiest hours](/img/12ManagementAnalyticBusiestHours.png)
